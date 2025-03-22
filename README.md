@@ -38,15 +38,19 @@ For questions regarding this prototype, contact:
 
 ## Output
 - **User Login Design**
+ 
  ![first_output1](https://github.com/user-attachments/assets/722691d5-6762-4383-af43-5caccad865e0)
 
  ![first_output2](https://github.com/user-attachments/assets/42954331-0f72-47d8-8d64-bf987f8c5c48)
 
 - **Fitness Webpage Homepage Design
 
- ![second_output1](https://github.com/user-attachments/assets/699ba3ab-1479-4c9d-a97e-53a1ba9189b8)
+  ![second_output1 (1)](https://github.com/user-attachments/assets/2a135282-a71d-47e4-b848-e769e4a38530)
 
- ![second_output2](https://github.com/user-attachments/assets/a5c5564a-c4af-404e-ae77-2776685b8be1)
+  ![second_output1 (2)](https://github.com/user-attachments/assets/a17e62d9-bd2b-4667-8f16-163e559c7864)
+
+
+
 
 
 
